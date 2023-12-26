@@ -9,4 +9,8 @@ https://public.tableau.com/views/BikeStoreAnalysis_17035815841350/BikeStoreDashb
 - Drag each file from your file explorer and drop it onto the SQL Server Management Studio (SSMS) window.
 - Make sure to click the Execute button.
 
-  
+### Excel Demo
+![Excel](excel.png)
+
+### Tableau Demo
+![Tableau](tableau.png)
